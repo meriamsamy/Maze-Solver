@@ -28,10 +28,15 @@ This project allows users to generate mazes, visualize solutions, and explore pa
 - Queue – for BFS traversal
 
 ---
-💡 Future Ideas  
-Add support for DFS and A* algorithms  
-Allow saving/loading custom mazes  
-Add animation speed control
+## 💡 Future Ideas  
+- Add support for DFS and A* algorithms  
+- Allow saving/loading custom mazes  
+- Add animation speed control
+
+---
+## 👩‍💻 Author
+Developed by Meriam Samy for coursework in introduction to artificial intelligence.
+
 
 
 
